@@ -8,6 +8,7 @@ This mini game, or interaction as I so call it, was developed to be part of an E
 - Toggle Switch (5x);
 - 4-Digit 7-Segment Display (1x);
 - Arduino Nano (1x);
+- 220Ω Resistor (5x);
 
 ![The Wiring Diagram of the Binary Number Interaction](images/WiringDiagram.jpg)
 
