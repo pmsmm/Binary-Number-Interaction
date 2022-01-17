@@ -7,6 +7,7 @@ This mini game, or interaction as I so call it, was developed to be part of an E
 ## List of Components
 - Toggle Switch (5x);
 - 4-Digit 7-Segment Display (1x);
+- Arduino Nano (1x);
 
 ![The Wiring Diagram of the Binary Number Interaction](images/WiringDiagram.jpg)
 
